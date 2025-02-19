@@ -19,7 +19,7 @@ This is a regular Laravel 11 project. To run it, follow these steps:
    cp .env.example .env
    ```
 
-4. **Set the credentials** in the `.env` file for the public and secret key. Placeholders should already be in place.
+4. **Set the credentials** in the newly created `.env` file for the public and secret key. Placeholders should already be in place.
   ```sh
     REFERSION_PUBLIC_KEY=
     REFERSION_SECRET_KEY=
