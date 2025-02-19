@@ -6,7 +6,7 @@ This is a regular Laravel 11 project. To run it, follow these steps:
 
 1. **Clone the repository**
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/joseorlandofp/coding-challenge-refersion
    ```
 
 2. **Navigate to the project directory**
